@@ -17,6 +17,9 @@
                     case 2:
                         Tasks1_2.Run2();
                         break;
+                    case 3:
+                        Task3.Run();
+                        break;
                 }
             } while (choice != 0);
         }
